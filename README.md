@@ -10,4 +10,3 @@
 - `localhost:3000/login`
 - `localhost:3000/register`
 - `localhost:3000/*` - catch all route
--
